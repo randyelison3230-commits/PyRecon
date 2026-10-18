@@ -1,0 +1,1 @@
+# Pacote PyRecon: módulos de validação e reconhecimento de rede.

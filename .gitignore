@@ -1,0 +1,14 @@
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Configurações locais de editores
+.vscode/
+
+# Arquivo pessoal com alvos do laboratório
+alvos.json
