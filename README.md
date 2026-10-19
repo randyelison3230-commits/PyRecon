@@ -34,8 +34,9 @@ O PyRecon permite validar endereços IPv4 privados, gerenciar uma lista local de
 Clone o repositório e entre na pasta do projeto:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/randyelison3230-commits/PyRecon.git
 cd PyRecon
+
 ```
 
 Crie um ambiente virtual:
